@@ -54,7 +54,7 @@ SUSTAINABLE DEVELOPMENT GOAL (SDG)
 
 The Sustainable Development Goals (SDGs) are crucial for addressing global challenges and fostering a more sustainable and equitable world. 
 
-Core Values
+CORE VALUES
 
 SDG 4: Quality Education
 
