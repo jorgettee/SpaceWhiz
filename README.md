@@ -8,3 +8,9 @@ Background of the Study
 
 Nowadays, effective management of school facilities is crucial and essential to support students learning, Collaborations and productivity. One aspects of this management is the implementation of Room Reservation. The system offer a range of benefits that can process of booking room for classes and meetings to study and events. Ensuring the efficient use of space, enhancing accountability and flexibility. Room Reservation systems play a crucial role in optimizing resource allocation within educational institutions. 
 
+A strategic approach involves exploring how room reservation systems can be integrated with practical applications. This aims to offer evidence-based recommendations for enhancing operational efficiency in school facilities while maximizing their potential. This research analyzes data on scheduling conflicts, underutilized spaces, and resource allocation patterns to suggest optimal solutions. Educators require valuable insights into the implementation process and its impact on educational settings. Therefore, this paper comprehensively examines these aspects before drawing conclusions on how policymakers or administrators involved in school decisions could improve their decision-making processes.
+
+Significance of the Study
+
+The study examines how room reservation systems can help educational institutions address issues related to space allocation and scheduling conflicts. By implementing these systems, schools can ensure fair access to facilities for all students, thereby enhancing their learning experiences. Furthermore, optimizing space utilization and may lead to cost savings by efficiently managing physical infrastructure.
+
