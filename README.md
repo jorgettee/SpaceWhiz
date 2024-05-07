@@ -30,3 +30,27 @@ The study examines how room reservation systems can help educational institution
 
     Imagine a more balanced resource distribution and optimized learning environments for academic success.
     
+OBJECTIVES
+
+The focal point of this system is to develop and implement a comprehensive system for enhancing student comfort and ensuring equitable access to quality educational facilities, thereby promoting inclusive and lifelong learning opportunities in the education sector.
+
+* Home
+
+    To have home features and the user can overview the building premises of the target location.
+
+* Schedule
+
+    To assist students and faculty in identifying which classrooms are presently being utilized.
+
+* Reservation
+
+    Its objective is to provide a feature that allows faculty to promptly reserve an available classroom if they need to use a specific facility within the building premises.
+
+* Issue
+
+   To readily identify any issues occurring in classrooms and  building within the campus's target location or premises.
+
+SUSTAINABLE DEVELOPMENT GOAL (SDG)
+
+The Sustainable Development Goals (SDGs) are crucial for addressing global challenges and fostering a more sustainable and equitable world. 
+
