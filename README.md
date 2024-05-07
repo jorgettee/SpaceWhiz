@@ -16,7 +16,7 @@ The study examines how room reservation systems can help educational institution
 
 * Policymakers
 
-    Utilize findings to enhance education efficiency with improved resource allocation and scheduling policies.
+Utilize findings to enhance education efficiency with improved resource allocation and scheduling policies.
 
 * Administrator
 
