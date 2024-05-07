@@ -55,6 +55,7 @@ SUSTAINABLE DEVELOPMENT GOAL (SDG)
 The Sustainable Development Goals (SDGs) are crucial for addressing global challenges and fostering a more sustainable and equitable world. 
 
 Core Values
+
 SDG 4: Quality Education
 
    This system can help the education industry especially on ensuring that the students have their comfort on the facilities that they will use for their study. This system can ensure the enclusive and equitable quality education and promote lifelong learning opportunities.   
