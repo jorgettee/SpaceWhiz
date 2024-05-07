@@ -60,3 +60,23 @@ SDG 4: Quality Education
 
    This system can help the education industry especially on ensuring that the students have their comfort on the facilities that they will use for their study. This system can ensure the enclusive and equitable quality education and promote lifelong learning opportunities.   
 
+RECOMMENDATIONS
+
+In light of the findings, analysis and observation of the researchers on the proposed system, the following recommendations are proposed to address the identified challenges and improve operational efficiency within school facilities: 
+
+*Automation
+
+    Track booking patterns, keep updated on space usage, and pinpoint areas that need improvement with the help of data analytics and reporting. Future space allocation and planning can be influenced by these facts. 
+
+*3D Design 
+
+    Make 3D representations of the rooms and areas that are available so that users can virtually tour them before making a reservation. This is known as virtual room tours. This can assist users in seeing the area and assessing whether it suits their needs. 
+
+*Room ID Sensor
+
+    Room ID sensors offer real-time data on room occupancy, allowing administrators to monitor who is in a room and ensure only authorized access for safety and security. Access control systems maintain a log of entry and exit events with timestamps and user identities, creating an audit trail for investigating security incidents and verifying compliance.
+
+*Decision Making
+
+    Data-Driven Decisions: Make well-informed choices regarding room utilization, scheduling, and space allocation by utilizing real-time occupancy data and logs from room ID sensors and access control systems.
+
