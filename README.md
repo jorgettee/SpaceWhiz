@@ -14,3 +14,19 @@ Significance of the Study
 
 The study examines how room reservation systems can help educational institutions address issues related to space allocation and scheduling conflicts. By implementing these systems, schools can ensure fair access to facilities for all students, thereby enhancing their learning experiences. Furthermore, optimizing space utilization and may lead to cost savings by efficiently managing physical infrastructure.
 
+* Policymakers
+
+    Utilize findings to enhance education efficiency with improved resource allocation and scheduling policies.
+
+* Administrator
+
+    Implement insights to streamline operations, reducing costs and effectively managing space.
+
+* Teachers
+
+    Access better facilities for enhanced lesson planning and student engagement.
+
+* Students
+
+    Imagine a more balanced resource distribution and optimized learning environments for academic success.
+    
